@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on front-end development
 - 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on WhatsApp ChatBot
+- 👯 Collaborate on WhatsApp ChatBot
 - 📫 How to reach me:  code-douglas@proton.me
 
 <div>
