@@ -12,14 +12,6 @@
 ## Habilidades em Desenvolvimento
 
 <div align="center">
-    <img src="https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql&logoColor=F7DF1E"/>
-    <img src="https://img.shields.io/badge/docker-007ACC?style=for-the-badge&logo=docker&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/figma-4A4A55?style=for-the-badge&logo=figma&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/vue.js-43853D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/react-007ACC?style=for-the-badge&logo=react&logoColor=white"/> 
 </div>
 
 <br>
