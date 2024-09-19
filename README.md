@@ -5,10 +5,6 @@
 ## Minhas habilidades
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/git-ED8B00?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 <br>
