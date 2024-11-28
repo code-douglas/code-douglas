@@ -19,7 +19,7 @@
 ## Detalhes do meu GitHub 
 
 <div align="center">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-douglas&hide_progress=true)
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-douglas&hide_progress=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-douglas&theme=highcontrast&show_icons=true">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=code-douglas&theme=highcontrast&show_icons=true">
 </div>
