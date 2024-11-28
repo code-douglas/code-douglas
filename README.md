@@ -19,7 +19,7 @@
 ## Detalhes do meu GitHub 
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-douglas&langs_count=8">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-douglas&layout=compact">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-douglas&theme=highcontrast&show_icons=true">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=code-douglas&theme=highcontrast&show_icons=true">
 </div>
