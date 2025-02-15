@@ -21,7 +21,7 @@
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-douglas&layout=compact">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-douglas&theme=white&show_icons=true">
-<!--     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=code-douglas&theme=white&show_icons=true"> -->
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=code-douglas&theme=white&show_icons=true">
 </div>
 
 <br>
