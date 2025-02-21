@@ -19,9 +19,9 @@
 ## Detalhes do meu GitHub 
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-douglas&layout=compact">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-douglas&theme=white&show_icons=true">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=code-douglas&theme=white&show_icons=true">
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-douglas&layout=compact"> -->
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-douglas&theme=white&show_icons=true"> -->
+<!--     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=code-douglas&theme=white&show_icons=true"> -->
 </div>
 
 <br>
@@ -29,7 +29,7 @@
 ## Entre em contato comigo: 
 
 [![Linkedin: Douglas de Souza](https://img.shields.io/badge/-Douglas_de_Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-cbs/)](https://www.linkedin.com/in/douglas-cbs/)
-[![Gmail Badge](https://img.shields.io/badge/-Meu_Email-006bed?style=flat-square&logo=protonmail&logoColor=white&link=mailto:bruno.hunterRj@gmail.com)](mailto:code-douglas@proton.me)
+[![Gmail Badge: Douglas de Souza](https://img.shields.io/badge/-Meu_Email-006bed?style=flat-square&logo=protonmail&logoColor=white&link=mailto:bruno.hunterRj@gmail.com)](mailto:code-douglas@proton.me)
 [![GitHub Douglas de Souza]( https://img.shields.io/github/followers/code-douglas?label=follow&style=social)](https://github.com/code-douglas)
 
 
