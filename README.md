@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1424C0&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=332EF7&width=435&lines=Hello%2C+my+name+is+Douglas%2C+I+study+information+systems+and+I+am+a+full+stack+web+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=3674B5&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Douglas+de+Souza;Sou+desenvolvedor+Web+Full-Stack;e+curso+Sistema+de+Informação)](https://git.io/typing-svg)
 
 ## Minhas habilidades
 
