@@ -1,33 +1,40 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1424C0&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+# 👋 Olá, visitante!
 
-<h1 align="center">hey there 👋</h1>
+😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. 
+
+## 🌟 Informações Públicas
+
+Meu nome é **Douglas** (também conhecido(a) como **Codin**). Atualmente, moro em **Feira de Santana, Bahia**. 🚀
+
+No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde **2023** venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
+
+## 📝 Informações Detalhadas
+
+<!-- Coloque suas informações pessoais que você deseja compartilhar -->
+
+- 👤 **Nome:** Douglas de Souza  
+- 🎂 **Idade:** 22   
+- 📍 **Localização:** Feira de Santana, Bahia, Brasil.   
+- 💻 **Stack:** JavaScript, TypeScript, Angular
+- 📚 **Aprendizado Atual:** PHP, Express
+- 🎓 **Formação:** Bacharelado em Sistema de Informação   
+
+## 😎 Curiosidades sobre Mim
+
+<!-- Coloque alguma curiosidade pra mostrar que você não é só código -->
+
+- 🎸 Sou apaixonado(a) por música e, ao longo dos anos, explorei diversos instrumentos e estilos. 
+- 💡 Comecei a programar em **2020** e, desde então, venho me desafiando e aprendendo coisas novas.   
+- 🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.   
+- 🌐 Tenho experiência em diversos projetos, desde servidores de jogos até aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.   
+
+
+## Linguagens e Ferramentas
 
 ###
+<div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/douglas-cbs/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:code-douglas@proton.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
 
-###
-
-<h2 align="center">👩‍💻  About Me</h2>
-
-###
-
-<p align="left">I'm a freelance developer passionate about building efficient and scalable web applications.<br><br>🔭 I’m working as a freelancer, taking on diverse projects that challenge and expand my skills.<br><br>📚 I'm currently diving into technologies like Cloud Computing and Next.js to enhance my backend and frontend capabilities.<br><br>⚡ In my free time, you’ll probably find me out skating — it’s how I recharge and stay inspired.</p>
-
-###
-
-<h2 align="center">🛠 Language and Tools</h2>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -43,18 +50,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+
+  
 </div>
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+## Minhas estatísticas
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-douglas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=code-douglas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+<div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=code-douglas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+<img src="https://streak-stats.demolab.com?user=code-douglas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  
 </div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1424C0&height=120&section=footer"/>
