@@ -4,7 +4,7 @@
 
 ## 🌟 Informações Públicas
 
-Meu nome é **Douglas** (também conhecido(a) como **Codin**). Atualmente, moro em **Feira de Santana, Bahia**. 🚀
+Meu nome é **Douglas** (também conhecido como **Codin**). Atualmente, moro em **Feira de Santana, Bahia**. 🚀
 
 No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde **2023** venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
 
