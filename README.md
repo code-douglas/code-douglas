@@ -17,7 +17,7 @@ No meu tempo livre, gosto de participar de comunidades de programação, onde ap
 - 📍 **Localização:** Feira de Santana, Bahia, Brasil.   
 - 💻 **Stack:** JavaScript, TypeScript, Angular
 - 📚 **Aprendizado Atual:** PHP, Express
-- 🎓 **Formação:** Bacharelado em Sistema de Informação   
+- 🎓 **Formação:** Graduando em Sistema de Informação   
 
 ## 😎 Curiosidades sobre Mim
 
